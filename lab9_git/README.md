@@ -5,3 +5,7 @@
 Отправили в репозиторий изменения 
 Ввели логин и Personal Access Token (PAT) для авторизации в аккаунте GitHab
 ![alt text](image-1.png)
+Работа через VS Code
+![alt text](image-2.png)
+
+![alt text](image-3.png)
